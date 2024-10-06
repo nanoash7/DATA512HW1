@@ -40,4 +40,6 @@ visualization3.jpg
 Each of the visualizations created in Step 2 are saved as separate jpg files.
 
 # Using the Code
+The code for this project is found in hw1.ipybn (main code) and wp_article_views_example.ipynb. The code also references the rare-disease_cleaned.AUG.2024.csv file as input.
+
 To replicate this project, run the code blocks in the same order that they are provided. Note: The code in Step 1 takes a while to run, but the output of these steps (the json files) is already created and available for use in Step 2. Therefore, Step 1 can be skipped.
